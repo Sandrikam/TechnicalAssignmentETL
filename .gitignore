@@ -20,7 +20,6 @@ env/
 Thumbs.db
 
 # Local database dumps / CSVs / API responses
-*.csv
 *.json
 *.sqlite3
 
