@@ -26,10 +26,6 @@ Thumbs.db
 # Logs
 *.log
 
-# PDF or report outputs
-*.pdf
-exported_reports/
-
 # Pip artifacts
 *.egg-info/
 dist/
